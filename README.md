@@ -7,6 +7,7 @@
 - 💌 My Gmail: `mr.vortex77dev@gmail.com`.
 - 🏡 From `Czech Republic`.
 - 💻 Currently working at <a href="https://github.com/GalaxySystems-Private">GalaxySystems<a> 😎
+- ⛔ Busy! Do not offer me work.
 
 #### My Toolbox
 
