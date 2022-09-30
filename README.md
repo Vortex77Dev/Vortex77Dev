@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning <a href="https://laravel.com">Laravel<a> framework and <a href="https://inertiajs.com">Inertia.js<a>.
 - 📫 My discord: `Mr.𝗩𝗼𝗿𝘁𝗲𝘅𝟳𝟳 ᴰᵉᵛ#7464`.
 - 💌 My Gmail: `mr.vortex77dev@gmail.com`.
+- 🏡 From `Czech Republic`.
 
 #### My Toolbox
 
