@@ -6,7 +6,7 @@
 - 📫 My discord: `Mr.𝗩𝗼𝗿𝘁𝗲𝘅𝟳𝟳 ᴰᵉᵛ#7464`.
 - 💌 My Gmail: `mr.vortex77dev@gmail.com`.
 - 🏡 From `Czech Republic`.
-- 💻 Currently working at <a href="https://github.com/GalaxySystems-Private">GalaxySystems<a> 😎
+- 💻 Currently working at <a href="https://github.com/GalaxySystems-Private">GalaxySystems<a> as backend developer 😎
 - ⛔ Busy! Do not offer me work.
 
 #### My Toolbox
