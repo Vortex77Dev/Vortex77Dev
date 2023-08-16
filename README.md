@@ -20,7 +20,3 @@
 <a href="https://www.jetbrains.com/phpstorm/promo/" title="phpstorm"><img src="https://raw.githubusercontent.com/Netoun/stack-icons/master/logos/phpstorm.svg" alt="phpstorm" width="35px" height="35px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="35px" height="35px"></a>
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="35px" height="35px"></a>
-
-#### Just a Snake 🐍 Eating away my Contributions...😭
-
-![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
